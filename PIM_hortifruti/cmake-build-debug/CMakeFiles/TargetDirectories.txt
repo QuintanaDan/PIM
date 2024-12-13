@@ -1,0 +1,3 @@
+C:/Users/Usuário/Desktop/PIM Segundo Semestre/Versão 12/PIM_hortifruti/cmake-build-debug/CMakeFiles/PIM_hortifruti.dir
+C:/Users/Usuário/Desktop/PIM Segundo Semestre/Versão 12/PIM_hortifruti/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuário/Desktop/PIM Segundo Semestre/Versão 12/PIM_hortifruti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

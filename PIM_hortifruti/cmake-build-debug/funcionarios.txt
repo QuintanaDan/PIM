@@ -1,0 +1,36 @@
+CPF: 15848486451
+Nome: Daniel
+Endereco: Rua das Orquideas, 55
+Telefone: 18784654515
+Genero: Masculino
+Data de Nascimento: 17/10/1988
+Cargo: Repositor
+Salario: 1500.00
+
+CPF: 15498451564
+Nome: Lucas
+Endereco: Rua das Acerolas
+Telefone: 15845154651
+Genero: Masculino
+Data de Nascimento: 15/05/2003
+Cargo: Caixa
+Salario: 1500.00
+
+CPF: 45648571541
+Nome: Gilberto
+Endereco: Rua das Carambolas
+Telefone: 18154654561
+Genero: Masculino
+Data de Nascimento: 12/09/2008
+Cargo: Ajudante Geral
+Salario: 1500.00
+
+CPF: 16545124843
+Nome: Marcos Aurelio
+Endereco: Rua da Violetas
+Telefone: 18264418466
+Genero: Masculino
+Data de Nascimento: 27/11/2006
+Cargo: Estoquista
+Salario: 1500.00
+

@@ -1,0 +1,210 @@
+Codigo: 1
+Nome: Maca
+Descricao: Maca Fuji
+Preco por Kg: 6.99
+Preco de Custo por Kg: 3.69
+Quantidade (kg): 0.00
+Categoria: Frutas
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 2
+Nome: Banana
+Descricao: Banana Prata
+Preco por Kg: 3.49
+Preco de Custo por Kg: 1.89
+Quantidade (kg): 3.00
+Categoria: Frutas
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 3
+Nome: Cenoura
+Descricao: Cenoura Fresca
+Preco por Kg: 5.99
+Preco de Custo por Kg: 2.99
+Quantidade (kg): 80.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 4
+Nome: Tomate
+Descricao: Tomate Italiano
+Preco por Kg: 7.49
+Preco de Custo por Kg: 4.29
+Quantidade (kg): 80.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 5
+Nome: Cebola
+Descricao: Cebola Roxa
+Preco por Kg: 4.99
+Preco de Custo por Kg: 2.99
+Quantidade (kg): 8.00
+Categoria: Legumes
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 6
+Nome: Laranja
+Descricao: Laranja Pera
+Preco por Kg: 3.79
+Preco de Custo por Kg: 1.99
+Quantidade (kg): 169.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 7
+Nome: Abacaxi
+Descricao: Abacaxi Perola
+Preco por Kg: 8.99
+Preco de Custo por Kg: 5.49
+Quantidade (kg): 60.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 8
+Nome: Batata
+Descricao: Batata Inglesa
+Preco por Kg: 4.49
+Preco de Custo por Kg: 2.99
+Quantidade (kg): 4.00
+Categoria: Legumes
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 9
+Nome: Mamao
+Descricao: Mamao Formosa
+Preco por Kg: 5.99
+Preco de Custo por Kg: 3.49
+Quantidade (kg): 80.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 10
+Nome: Abobrinha
+Descricao: Abobrinha Italiana
+Preco por Kg: 5.49
+Preco de Custo por Kg: 3.29
+Quantidade (kg): 70.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 11
+Nome: Pepino
+Descricao: Pepino Japones
+Preco por Kg: 4.29
+Preco de Custo por Kg: 2.49
+Quantidade (kg): 85.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 12
+Nome: Manga
+Descricao: Manga Palmer
+Preco por Kg: 6.99
+Preco de Custo por Kg: 3.89
+Quantidade (kg): 75.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 13
+Nome: Melancia
+Descricao: Melancia Inteira
+Preco por Kg: 2.99
+Preco de Custo por Kg: 1.59
+Quantidade (kg): 300.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 14
+Nome: Pera
+Descricao: Pera Portuguesa
+Preco por Kg: 7.99
+Preco de Custo por Kg: 4.69
+Quantidade (kg): 65.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 15
+Nome: Uva
+Descricao: Uva Italia
+Preco por Kg: 9.99
+Preco de Custo por Kg: 6.49
+Quantidade (kg): 50.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 16
+Nome: Abobrinha
+Descricao: Abobrinha Italiana
+Preco por Kg: 4.49
+Preco de Custo por Kg: 2.49
+Quantidade (kg): 21.00
+Categoria: Legumes
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 17
+Nome: Tangerina
+Descricao: Tangerina Ponkan
+Preco por Kg: 6.49
+Preco de Custo por Kg: 3.99
+Quantidade (kg): 65.00
+Categoria: Frutas
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 18
+Nome: Batata Doce
+Descricao: Batata Doce Roxa
+Preco por Kg: 5.99
+Preco de Custo por Kg: 3.59
+Quantidade (kg): 116.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 19
+Nome: Beterraba
+Descricao: Beterraba Fresca
+Preco por Kg: 6.49
+Preco de Custo por Kg: 3.49
+Quantidade (kg): 76.00
+Categoria: Legumes
+Data de Entrada: 25/11/2024
+Validade: 01/12/2024
+
+Codigo: 20
+Nome: Limao
+Descricao: Limao Tahiti
+Preco por Kg: 3.99
+Preco de Custo por Kg: 1.99
+Quantidade (kg): 5.00
+Categoria: Frutas
+Data de Entrada: 23/11/2024
+Validade: 30/11/2024
+
+Codigo: 21
+Nome: Batata
+Descricao: Batata Inglesa
+Preco por Kg: 4.49
+Preco de Custo por Kg: 2.99
+Quantidade (kg): 120.00
+Categoria: Legumes
+Data de Entrada: 09/12/2024
+Validade: 16/12/2024
+

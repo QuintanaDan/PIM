@@ -1,0 +1,20 @@
+Fornecedor: Raul
+CNPJ: 48974515748411
+Produto: Batata
+Quantidade: 120 kg
+Preco Unitario: 2.50 por kg
+Preco Total: 300.00
+Recebimento: Aguardando carga
+Entrada Produto: 1
+Data da Compra: 24/11/2024
+
+Fornecedor: Carlos
+CNPJ: 12564813494534
+Produto: Maca
+Quantidade: 100 kg
+Preco Unitario: 3.00 por kg
+Preco Total: 300.00
+Recebimento: Aguardando carga
+Entrada Produto: 0
+Data da Compra: 03/12/2024
+

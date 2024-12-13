@@ -1,0 +1,25 @@
+Código do Produto: 1
+Peso: 10.00 kg
+Preço por Kg: 6.99
+Valor Total: 69.90
+
+Código do Produto: 2
+Peso: 5.00 kg
+Preço por Kg: 3.49
+Valor Total: 17.45
+
+Código do Produto: 5
+Peso: 6.00 kg
+Preço por Kg: 4.99
+Valor Total: 29.94
+
+Codigo do Produto: 5
+Peso: 6.00 kg
+Preco por Kg: 4.99
+Valor Total: 29.94
+
+Codigo do Produto: 1
+Peso: 0.20 kg
+Preco por Kg: 6.99
+Valor Total: 1.40
+

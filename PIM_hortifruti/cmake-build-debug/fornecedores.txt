@@ -1,0 +1,12 @@
+CNPJ: 48974515748411
+Nome: Raul
+Endereco: Rua dos Gil
+Telefone: 15678651548
+Email: raul@gmail.com
+
+CNPJ: 12564813494534
+Nome: Carlos
+Endereco: Rua das Pipocas
+Telefone: 14784156483
+Email: carlos@gmail.com
+
